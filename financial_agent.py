@@ -369,22 +369,4 @@ def run_agent_stream(message: str):
 
 
 
-# financial_agent.py
-"""
-Upgraded multi-agent financial assistant for Streamlit / local use.
 
-Provides:
- - Web Search Agent (DuckDuckGo)
- - Finance Agent (YFinanceTools + custom historical tools)
- - Supervisor Agent (team router that delegates work)
-
-Tools:
- - one_year_tool(symbol)
- - compare_stocks_tool(symbol1, symbol2)
- - ten_year_analysis_tool(symbol)
- - compare_multi_stocks_tool(symbols: comma-separated or list)
-
-Exports:
- - get_financial_agent() -> returns the master team Agent
- - run_agent_stream(message) -> simple streaming wrapper for UI
-"""
