@@ -113,7 +113,7 @@ Character-by-character typing effect in the UI.
 
 ## 📈 Supported Queries
 
-### **Stock Price**
+```yaml
 supported_queries:
   - title: "Stock Price"
     example: "What is the current price of NVDA?"
@@ -162,3 +162,4 @@ author:
   name: "Mehedi Hasan Shihab"
   role: "AI Developer & Researcher"
   github: "https://github.com/sbshihab24"
+```
