@@ -40,7 +40,7 @@ Built with custom CSS for a clean, premium feel.
 ---
 
 ## 📂 Project Structure
-
+```bash
 Agentic--AI/
 │
 ├── app.py                  # Streamlit chat UI
@@ -54,7 +54,7 @@ Agentic--AI/
 │   └── (container files)
 │
 └── __pycache__/            # Auto-generated
-
+```
 
 
 ---
