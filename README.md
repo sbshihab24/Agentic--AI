@@ -144,22 +144,25 @@ tech_stack:
   - layer: "Deployment Ready"
     technology: "Local / Cloud"
 
-development_scripts:
-  run_agent:
-    command: "python playground.py"
-    description: "Run the agent without UI."
+```
 
-contribution:
+### contribution:
+```yaml
   guidelines: |
     Pull requests are welcome!
     Make sure code is clean and well-formatted.
+```
 
-license:
+### license:
+```yaml
   type: "MIT License"
   permissions: "Free to use and modify."
 
-author:
+```
+## author:
+```yaml
   name: "Mehedi Hasan Shihab"
   role: "AI Developer & Researcher"
   github: "https://github.com/sbshihab24"
+
 ```
